@@ -13,16 +13,6 @@
 
 ## Preparing Data
 
-* Clone our repo
-
-Market-1501(namely CnMix) (SYSU and RegDB are the same):
-* Download "Market-1501-v15.09.15.zip".
-* Create a new directory, rename it as "data".
-* Create a directory called "raw" under "data" and put "Market-1501-v15.09.15.zip" under it.
-* The processed dataset is provided in the link below, please refer to it.
-* To adapt different dataset formats to this code, we have provided conversion scripts. Please refer to CnMix_process.py, cross-modal_dataset_to_market_format.py, deal_SYSU_testset_ID.py, and testset_to_query.py. 
-
-
 * There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/160oRNcDSemBprqBUBX0PUQ?pwd=9pmk) (Password: 9pmk)  with all needed files.
 
 ## Preparing Models
