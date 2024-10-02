@@ -8,7 +8,6 @@ Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2024)".
 ## Requirements:
 * python 3.7
 * CUDA==10.1
-* Market1501 (will transform to CnMix), Sketch-ReID, SYSU and RegDB dataset.
 * faiss-gpu==1.6.0
 * Other necessary packages listed in [requirements.txt](requirements.txt)
 
