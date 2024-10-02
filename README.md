@@ -9,7 +9,7 @@
 * python 3.7
 * CUDA==11.2
 * faiss-gpu==1.6.0
-* Other necessary packages listed in [requirements.txt](requirements.txt)
+
 
 ## Preparing Data
 
