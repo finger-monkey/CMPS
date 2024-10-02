@@ -27,13 +27,10 @@ See run.sh for more information.
 If you find this code useful in your research, please consider citing:
 
 ```
-@inproceedings{XXXXX,
-  title={XXXXg},
-  author={XXXXXXXXXx},
-  booktitle={XXX},
-  volume={35},
-  number={4},
-  pages={3128--3135},
+@article{gong2024cross,
+  title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
+  author={Gong, Yunpeng and others},
+  journal={arXiv preprint arXiv:2401.10090},
   year={2024}
 }
 ```
