@@ -37,7 +37,7 @@ If you find this code useful in your research, please consider citing:
 
 ## Acknowledgments
 
-Our code is based on [Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation),[UAP-Retrieval](https://github.com/theFool32/UAP_retrieval) and [LTA](https://github.com/finger-monkey/LTA_and_joint-defence)  
+Our code is based on [Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation),[LTA](https://github.com/finger-monkey/LTA_and_joint-defence) and [UAP-Retrieval](https://github.com/theFool32/UAP_retrieval) and 
 if you use our code, please also cite their paper.
 ```
 @misc{RCE2024,
@@ -50,14 +50,6 @@ if you use our code, please also cite their paper.
 }
 ```
 ```
-@inproceedings{Li_2019_ICCV,
-    author = {Li, Jie and Ji, Rongrong and Liu, Hong and Hong, Xiaopeng and Gao, Yue and Tian, Qi},
-    title = {Universal Perturbation Attack Against Image Retrieval},
-    booktitle = {ICCV},
-    year = {2019}
-}
-```
-```
 @inproceedings{colorAttack2022,
   title={Person re-identification method based on color attack and joint defence},
   author={Gong, Yunpeng and Huang, Liqing and Chen, Lifei},
@@ -66,6 +58,16 @@ if you use our code, please also cite their paper.
   year={2022}
 }
 ```
+
+```
+@inproceedings{Li_2019_ICCV,
+    author = {Li, Jie and Ji, Rongrong and Liu, Hong and Hong, Xiaopeng and Gao, Yue and Tian, Qi},
+    title = {Universal Perturbation Attack Against Image Retrieval},
+    booktitle = {ICCV},
+    year = {2019}
+}
+```
+
 
 
 
