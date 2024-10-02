@@ -27,11 +27,13 @@ See run.sh for more information.
 If you find this code useful in your research, please consider citing:
 
 ```
-@article{gong2024cross,
-  title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
-  author={Gong, Yunpeng and others},
-  journal={arXiv preprint arXiv:2401.10090},
-  year={2024}
+@inproceedings{
+anonymous2024crossmodality,
+title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
+author={Anonymous},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=LONd7ACEjy}
 }
 ```
 
