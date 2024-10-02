@@ -27,8 +27,7 @@ See run.sh for more information.
 If you find this code useful in your research, please consider citing:
 
 ```
-@inproceedings{
-anonymous2024crossmodality,
+@inproceedings{crossmodality,
 title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
 author={Yunpeng Gong, Zhun Zhong, Yansong Qu, Zhiming Luo, Rongrong Ji, Min Jiang },
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
