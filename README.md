@@ -1,6 +1,6 @@
 # XXXXXXXXXXXXXXXXXXXXX (XXXX 2024)
 
-Code for XXXX 2024 paper ``XXXXXXXXXXXXXXXXXX (XXXX 2024)".
+Code for NeurIPS 2024 paper ``Cross-Modality Perturbation Synergy Attack for Person Re-identification".
 
 
 ## [Paper](pdfs/XXXX.pdf)
