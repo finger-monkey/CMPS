@@ -4,7 +4,7 @@ import argparse
 import sys
 import torch
 from torch.utils.data import DataLoader
-from reid import models
+from reid import models  
 from torch.nn import functional as F
 from reid import datasets
 from MI_SGD import MI_SGD,keepGradUpdate
