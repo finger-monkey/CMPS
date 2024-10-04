@@ -1,7 +1,7 @@
 import os
 import os.path as osp
 import argparse
-import sys
+import sys  
 import torch
 from torch.utils.data import DataLoader
 from reid import models
