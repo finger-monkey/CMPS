@@ -50,13 +50,11 @@ if you use the code, please cite their paper.
 }
 ```
 ```
-@misc{RCE2024,
-      title={Exploring Color Invariance through Image-Level Ensemble Learning}, 
-      author={Yunpeng Gong and Jiaquan Li and Lifei Chen and Min Jiang},
-      year={2024},
-      eprint={2401.10512},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{gong2021eliminate,
+  title={Eliminate deviation with deviation for data augmentation and a general multi-modal data learning method},
+  author={Gong, Yunpeng and Huang, Liqing and Chen, Lifei},
+  journal={arXiv preprint arXiv:2101.08533},
+  year={2021}
 }
 ```
 ```
