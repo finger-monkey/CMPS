@@ -2,7 +2,6 @@
 
 
 
-
 ## [Paper](paper/Cross-Modality Perturbation Synergy Attack for Person Re-identification.pdf)
 
 ## Requirements:
