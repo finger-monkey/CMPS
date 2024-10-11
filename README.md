@@ -3,7 +3,7 @@
 
 
 
-## [Paper](pdfs/XXXX.pdf)
+## [Paper](paper/Cross-Modality Perturbation Synergy Attack for Person Re-identification.pdf)
 
 ## Requirements:
 * python 3.7
