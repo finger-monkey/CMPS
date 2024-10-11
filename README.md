@@ -2,7 +2,7 @@
 
 
 
-## [Paper](paper/Cross-Modality Perturbation Synergy Attack for Person Re-identification.pdf) 
+## [Paper](paper/CMPS.pdf) 
 
 ## Requirements:
 * python 3.7
