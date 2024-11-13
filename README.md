@@ -1,4 +1,4 @@
-# Code for the paper ``Cross-Modality Perturbation Synergy Attack for Person Re-identification".
+# Code for the NeurIPS 2024 paper ``Cross-Modality Perturbation Synergy Attack for Person Re-identification".
 
 
 
