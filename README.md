@@ -23,7 +23,7 @@
  
 See run.sh for more information.
 
-If you find this code useful in your research, please consider citing:
+If you find this code useful in your research, please cite:
 
 ```
 @inproceedings{gong2024cross,
