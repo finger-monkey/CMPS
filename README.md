@@ -26,12 +26,12 @@ See run.sh for more information.
 If you find this code useful in your research, please consider citing:
 
 ```
-@inproceedings{crossmodality,
-title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
-author={Yunpeng Gong, Zhun Zhong, Yansong Qu, Zhiming Luo, Rongrong Ji, Min Jiang },
-booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-year={2024},
-url={https://openreview.net/forum?id=LONd7ACEjy}
+@inproceedings{gong2024cross,
+	title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
+	author={Gong,Yunpeng and Zhong, Zhun and  Qu,Yansong and Luo,Zhiming and Ji,Rongrong and Jiang,Min },
+	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+	year={2024},
+	url={https://openreview.net/forum?id=LONd7ACEjy}
 }
 ```
 
