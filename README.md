@@ -14,10 +14,6 @@
 
 * There is a processed tar file in [BaiduYun](https://pan.baidu.com/s/160oRNcDSemBprqBUBX0PUQ?pwd=9pmk) (Password: 9pmk)  with all needed files.
 
-## Preparing Models
-
-* Download re-ID models and dataset from [BaiduYun](https://pan.baidu.com/s/1LU2EYmLRGen49F3FgcXvZQ?pwd=z7um) (Password: z7um)
-
 
 ## Run our code
  
