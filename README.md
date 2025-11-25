@@ -22,12 +22,13 @@ See run.sh for more information.
 If you find this code useful in your research, please cite:
 
 ```
-@inproceedings{gong2024cross,
-	title={Cross-Modality Perturbation Synergy Attack for Person Re-identification},
-	author={Gong,Yunpeng and Zhong, Zhun and  Qu,Yansong and Luo,Zhiming and Ji,Rongrong and Jiang,Min },
-	booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-	year={2024},
-	url={https://openreview.net/forum?id=LONd7ACEjy}
+@article{gong2024cross,
+	title={Cross-modality perturbation synergy attack for person re-identification},
+	author={Gong, Yunpeng and Zhong, Zhun and Qu, Yansong and Luo, Zhiming and Ji, Rongrong and Jiang, Min},
+	journal={Advances in Neural Information Processing Systems},
+	volume={37},
+	pages={23352--23377},
+	year={2024}
 }
 ```
 
@@ -52,13 +53,7 @@ if you use the code, please cite their paper.
   year={2021}
 }
 ```
-```
-@inproceedings{Li_2019_ICCV,
-    author = {Li, Jie and Ji, Rongrong and Liu, Hong and Hong, Xiaopeng and Gao, Yue and Tian, Qi},
-    title = {Universal Perturbation Attack Against Image Retrieval},
-    booktitle = {ICCV},
-    year = {2019}
-}
+
 ```
 
 
