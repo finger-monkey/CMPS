@@ -34,7 +34,7 @@ If you find this code useful in your research, please cite:
 
 ## Acknowledgments
 
-The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defence), [Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation) and Mata_attack. 
+The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defence), [Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation) and [Mata_attack](https://github.com/WJJLL/Meta-Attack-Defense). 
 
 If you use the code, please cite the paper.
 
