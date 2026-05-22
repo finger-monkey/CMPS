@@ -63,9 +63,6 @@ If you use the code, please cite the paper.
 
 1.Recently, some users have reported that running the same code now produces results that differ significantly from those obtained a few months ago. We suspect this is most likely caused by updates to packages or the runtime environment. It is a common issue that significant discrepancies in results arise due to updates in the code package and its environment. At the moment, there is no good solution, and the author does not have the time or capacity to maintain it. Please make sure that your environment and package versions are configured according to the versions used when the [Mata_attack](https://github.com/WJJLL/Meta-Attack-Defense) code was released.
 
-<div align="center">
-  <img src="result.png" width="1000px" />
-</div>
 
 2.In addition, questions regarding the model accuracy of AGW and DDAG are frequently asked. For such inquiries, it is recommended to consult the respective authors of the relevant papers.
 
