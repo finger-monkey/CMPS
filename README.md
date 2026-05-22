@@ -54,12 +54,15 @@ If you use the code, please cite their paper.
 }
 ```
 ```
-@article{gong2021eliminate,
-  title={Eliminate deviation with deviation for data augmentation and a general multi-modal data learning method},
-  author={Gong, Yunpeng and Huang, Liqing and Chen, Lifei},
-  journal={arXiv preprint arXiv:2101.08533},
-  year={2021}
-}
+@inproceedings{gong2026theory,
+  title={A theory-inspired framework for few-shot cross-modal sketch person re-identification},
+  author={Gong, Yunpeng and Hou, Yongjie and Shi, Jiangming and Diep, Kim Long and Jiang, Min},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={6},
+  pages={4284--4292},
+  year={2026}
+
 ```
 
 
