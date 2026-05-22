@@ -38,8 +38,10 @@ The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defenc
 
 Recently, some users have reported that running the same code now produces results that differ significantly from those obtained a few months ago. We suspect this is most likely caused by updates to packages or the runtime environment. At the moment, there is no good solution, and the author does not have the time or capacity to maintain it. Please make sure that your environment and package versions are configured according to the versions used when the [Mata_attack](https://github.com/WJJLL/Meta-Attack-Defense) code was released.
 
-![Uploading image.png…]()
 
+<div align="center">
+  <img src="result.png" width="1000px" />
+</div>
 
 If you use the code, please cite their paper.
 ```
