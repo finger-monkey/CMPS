@@ -36,7 +36,7 @@ If you find this code useful in your research, please cite:
 
 The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defence), [Random Color Erasing](https://github.com/finger-monkey/Data-Augmentation) and [Mata_attack](https://github.com/WJJLL/Meta-Attack-Defense). 
 
-## [Related Work](https://arxiv.org/pdf/2101.08533.pdf) => [(Code)](https://github.com/finger-monkey/Data-Augmentation) and [Related Code](https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/random_erasing.py)  (The code is included in an open-source project with more than 4.4k stars. Reference RandomGrayscaleErasing.py)
+## [Our Related Work](https://arxiv.org/pdf/2101.08533.pdf) => [(Code)](https://github.com/finger-monkey/Data-Augmentation) and [Related Code](https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/random_erasing.py)  (The code is included in an open-source project with more than 4.4k stars. Reference RandomGrayscaleErasing.py)
 
 
 If you use the code, please kindly cite the paper.
