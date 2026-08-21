@@ -38,6 +38,14 @@ The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defenc
 
 ## [Our Related Code](https://github.com/layumi/Person_reID_baseline_pytorch/blob/master/random_erasing.py)  (The code is included in an open-source project with more than 4.4k stars. Reference RandomGrayscaleErasing.py)
 
+## Related Projects
+
+- [Muitiform Attack](https://github.com/finger-monkey/Muitiform_Attack/tree/main)
+- [LTA and Joint Defence](https://github.com/finger-monkey/LTA_and_joint-defence)
+
+
+
+
 
 If you use the code, please kindly cite the paper.
 
