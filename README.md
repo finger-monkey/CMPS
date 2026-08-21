@@ -40,8 +40,8 @@ The code is based on [LTA](https://github.com/finger-monkey/LTA_and_joint-defenc
 
 ## Related Projects
 
-- [Muitiform Attack](https://github.com/finger-monkey/Muitiform_Attack/tree/main)
-- [LTA and Joint Defence](https://github.com/finger-monkey/LTA_and_joint-defence)
+- [Multiform Attack for Transferable Cross-Modal Person Re-Identification](https://github.com/finger-monkey/Muitiform_Attack/tree/main)
+- [Person re-identification method based on color attack and joint defence](https://github.com/finger-monkey/LTA_and_joint-defence)
 
 
 
