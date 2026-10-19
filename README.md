@@ -75,6 +75,8 @@ If you use the code, please kindly cite the paper.
 
 2.In addition, questions regarding the model accuracy of AGW and DDAG are frequently asked. For such inquiries, it is recommended to consult the respective authors of the relevant papers.
 
+The code was organized and released within a relatively short timeframe after the experiments were completed, so some details may not have been fully standardized. In fact, the released code already includes the main functionalities required for implementing the proposed method and conducting the relevant experiments. However, during our research, certain parts of the code, parameter configurations, and experimental procedures were temporarily modified to accommodate specific experiments and testing purposes. Some of these changes were not fully reverted or consolidated before the code was released. As a result, a few implementation details may not perfectly align with the descriptions in the paper or the standard experimental settings. These discrepancies are mainly related to code organization and experimental configurations and can be addressed with minor adjustments.
+
 
 
 
